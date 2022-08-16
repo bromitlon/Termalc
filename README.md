@@ -5,7 +5,7 @@ Terminal Based Python Calculator Project
 ## Installation
 
 ``` 
-git clone https://github.com/meditlon/Termalc.git
+git clone https://github.com/bromitlon/Termalc.git
 cd Termalc
 python calc.py
 
